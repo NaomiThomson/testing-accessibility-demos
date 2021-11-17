@@ -37,7 +37,7 @@ ListingExcerpt.propTypes = {
         listingType: PropTypes.string,
         imageSrc: PropTypes.string,
         excerpt: PropTypes.string,
-        amenities: PropTypes.array,
+        amenities: PropTypes.array
     }),
     image: PropTypes.string
 }
